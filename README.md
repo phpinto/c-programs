@@ -1,2 +1,2 @@
-# C/C++ Programs
-Collection of exercises and projects in C and C++ programming languages.
+# C Programs
+Collection of exercises in the C programming languages.
