@@ -1,2 +1,2 @@
-# the_c_programming_language
-Collection of exercises from "The C Programming Language" by Brian Kernighan and Dennis Ritchie.
+# C Programs
+Collection of exercises in the C programming language.
